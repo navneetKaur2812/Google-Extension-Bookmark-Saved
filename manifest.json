@@ -1,0 +1,10 @@
+{
+    "manifest_version":3,
+    "version":"1",
+    "name":"Lead Trackr",
+    "action":{
+        "default_popup":"index.html",
+        "dafault_icon":"th.png"
+
+    }
+}
